@@ -1,0 +1,4 @@
+from labor_stats_streamlit_dashboard import storage_folder,us_bureau_collection,IncrementalData
+
+
+IncrementalData()
