@@ -266,8 +266,8 @@ st.dataframe(eci_private_wage_df[["year","period","periodName","latest","value",
 
 # Incremental Load Button
 
-if st.button('Load Latest Data'):    
+# if st.button('Load Latest Data'):    
 
-    IncrementalData()
+#     IncrementalData()
 
-    st.rerun()
+#     st.rerun()
