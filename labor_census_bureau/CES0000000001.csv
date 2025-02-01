@@ -22,3 +22,4 @@ year,period,periodName,latest,value,footnotes
 2023,M03,March,,155206,[{}]
 2023,M02,February,,155060,[{}]
 2023,M01,January,,154773,[{}]
+2024,M12,December,true,159536,"[{'code': 'P', 'text': 'preliminary'}]"
