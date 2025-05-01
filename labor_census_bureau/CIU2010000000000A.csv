@@ -7,3 +7,4 @@ year,period,periodName,latest,value,footnotes
 2023,Q02,2nd Quarter,,4.5,[{}]
 2023,Q01,1st Quarter,,4.8,[{}]
 2024,Q04,4th Quarter,True,3.6,[{}]
+2025,Q01,1st Quarter,true,3.4,[{}]
