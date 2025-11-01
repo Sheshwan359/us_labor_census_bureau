@@ -30,4 +30,4 @@ year,period,periodName,latest,value,footnotes
 2025,M05,May,True,4.2,[{}]
 2025,M06,June,True,4.1,[{}]
 2025,M07,July,True,4.2,[{}]
-2025,M08,August,true,4.3,[{}]
+2025,M08,August,True,4.3,[{}]
